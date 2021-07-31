@@ -188,7 +188,7 @@ header>h1{
 	margin:100px 30px 50px 500px;
 	font-weight: bolder;
 	display: inline-flex;
-	font-size:80px;
+	font-size:50px;
 	-webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color:white;
 	-webkit-text-fill-color:transparent
@@ -202,7 +202,7 @@ header>h1{
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 35px;
+	font-size: 20px;
 	
 	margin: 0px 10px 0px 800px;
   }
