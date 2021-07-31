@@ -189,7 +189,7 @@ header>h1{
 	font-weight: bolder;
 	display: inline-flex;
 	font-size:50px;
-	-webkit-text-stroke-width: 3px;
+	-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color:white;
 	-webkit-text-fill-color:transparent
 }
