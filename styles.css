@@ -116,12 +116,8 @@ article.col-md-4 col-lg-3 {
 	  text-align: center;
 	 
   }
-  .sub-footer{
-	  background-color: white;
-	  text-align: right;
-	  margin-top: 40px;
-	 
-  }
+ 
+  
   #search{
 	 
 	margin: 1px 10px 10px 830px;
@@ -179,10 +175,13 @@ article.col-md-4 col-lg-3 {
   }  
 
 body{
+	text-align: center;
 	font-size: 75% !important;
-	margin:0;
-	padding:0;
-	overflow-x:hidden;
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+	transform: scale(0.87);
+	transform-origin: 0 0;
 }
 header>h1{
 	color:black;
@@ -210,4 +209,7 @@ header>h1{
 
   .button4 {border-radius: 12px;}
 
-  
+  #page-wrap{
+	 width: fit-content;
+	 height: 100%;
+ }
